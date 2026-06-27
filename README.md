@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on AI and Gen AI projects  <br>🌱 Learning Python Full Stack and Machine Learning  <br>🤝 Looking to collaborate on AI and Android projects  <br>💬 Ask me about Python, Flask, Machine Learning, and Android  <br>⚡ Fun fact: I enjoy building real-world applications using AI
+🔭 Currently working on AI and Gen AI projects  <br>🌱 Learning Python Full Stack and Gen AI  <br>🤝 Looking to collaborate on AI and Android projects  <br>💬 Ask me about Python, Flask, Machine Learning, and Android  <br>⚡ Fun fact: I enjoy building real-world applications using AI
 
 
 ## 🌐 Socials:
